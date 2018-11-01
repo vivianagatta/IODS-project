@@ -3,7 +3,7 @@
 
 ### Description:  
 
-The course is meant for all the people who want to understand the opportunities of open data science. At the end of the cours the student will be able to utilize open software tools to analyze data sets.   
+The course is meant for all the people who want to understand the opportunities of open data science. At the end of the course the student will be able to utilize open software tools to analyze data sets.   
 
 ### Link to github repository:  
 
